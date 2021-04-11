@@ -11,6 +11,7 @@ const BannerImage = (props) => {
     )
 }
 
+// styles
 const useStyle = makeStyles({
     fitBg: {
         position: "absolute",
